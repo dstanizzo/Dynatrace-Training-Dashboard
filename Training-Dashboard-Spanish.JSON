@@ -1,0 +1,241 @@
+{
+  "dashboardMetadata": {
+    "name": "Capacitación Dynatrace - Dash",
+    "shared": false,
+    "owner": "ds@dosbyte.com",
+    "tags": [
+      "Learning",
+      "Dynatrace",
+      "Curso",
+      "Capacitación",
+      "Videos"
+    ],
+    "hasConsistentColors": false
+  },
+  "tiles": [
+    {
+      "name": "Markdown",
+      "nameSize": "",
+      "tileType": "MARKDOWN",
+      "configured": true,
+      "bounds": {
+        "top": 152,
+        "left": 0,
+        "width": 418,
+        "height": 76
+      },
+      "tileFilter": {},
+      "isAutoRefreshDisabled": false,
+      "markdown": "***\n# Event Monitoring\n***"
+    },
+    {
+      "name": "Markdown",
+      "nameSize": "",
+      "tileType": "MARKDOWN",
+      "configured": true,
+      "bounds": {
+        "top": 228,
+        "left": 456,
+        "width": 418,
+        "height": 456
+      },
+      "tileFilter": {},
+      "isAutoRefreshDisabled": false,
+      "markdown": "## 🔍 ¿Qué puedo hacer con el rol DevOps?\n***\n## 🔗 Gestionando Dynatrace: \n1.\n### [Etiquetado Manual](https://university.dynatrace.com/ondemand/course/21818/video/22246?section=23819)\n1.\n### [Etiquetado Automático](https://university.dynatrace.com/ondemand/course/21818/video/22247?section=23819)\n1.\n### [Notificación de Problemas](https://university.dynatrace.com/ondemand/course/21819/video/23061?section=26005)\n1.\n### [Alertar desde Etiquetas](https://university.dynatrace.com/ondemand/course/26894/video/24447?section=23819)\n2.\n### [Calculated Service Metrics](https://university.dynatrace.com/ondemand/course/22987/video/24308)\n3.\n### [Definir Ventanas de Mantenimiento](https://university.dynatrace.com/ondemand/course/40973/video/22017?section=40093)\n\n## 🔗 DevOps Pipeline: \n4.\n### [DevOps Pipeline & Auto Remediación](https://university.dynatrace.com/ondemand/course/26892/video/24593?section=24594)\n5.\n### [Service Level Objectives](https://university.dynatrace.com/ondemand/course/26895/video/26201?section=26863)\n6.\n### [Monitoreo de Versiones](https://university.dynatrace.com/ondemand/course/26895/video/26845?section=26844)\n7.\n### [Issue Tracking](https://university.dynatrace.com/ondemand/course/26895/video/27387?section=26844)\n8.\n### [Monitoreo de Releases](https://university.dynatrace.com/ondemand/course/26895/video/26873?section=26844)"
+    },
+    {
+      "name": "Markdown",
+      "nameSize": "",
+      "tileType": "MARKDOWN",
+      "configured": true,
+      "bounds": {
+        "top": 152,
+        "left": 456,
+        "width": 418,
+        "height": 76
+      },
+      "tileFilter": {},
+      "isAutoRefreshDisabled": false,
+      "markdown": "***\n# DevOps\n***"
+    },
+    {
+      "name": "Markdown",
+      "nameSize": "",
+      "tileType": "MARKDOWN",
+      "configured": true,
+      "bounds": {
+        "top": 152,
+        "left": 912,
+        "width": 418,
+        "height": 76
+      },
+      "tileFilter": {},
+      "isAutoRefreshDisabled": false,
+      "markdown": "***\n# Admins\n***"
+    },
+    {
+      "name": "Markdown",
+      "nameSize": "",
+      "tileType": "MARKDOWN",
+      "configured": true,
+      "bounds": {
+        "top": 152,
+        "left": 1368,
+        "width": 418,
+        "height": 76
+      },
+      "tileFilter": {},
+      "isAutoRefreshDisabled": false,
+      "markdown": "***\n# Synthetic Admins\n***"
+    },
+    {
+      "name": "Markdown",
+      "nameSize": "",
+      "tileType": "MARKDOWN",
+      "configured": true,
+      "bounds": {
+        "top": 228,
+        "left": 1368,
+        "width": 418,
+        "height": 152
+      },
+      "tileFilter": {},
+      "isAutoRefreshDisabled": false,
+      "markdown": "## 🔍 Introducción a DEM\n***\n## 🔗 Digital Experience Monitoring: \n1.\n### [¿Qué es DEM?](https://university.dynatrace.com/ondemand/course/22595/video/22281?section=22596)\n2.\n### [DEM con Dynatrace](https://university.dynatrace.com/ondemand/course/22595/video/22650?section=22596)"
+    },
+    {
+      "name": "Image",
+      "tileType": "IMAGE",
+      "configured": true,
+      "bounds": {
+        "top": 0,
+        "left": 456,
+        "width": 152,
+        "height": 152
+      },
+      "tileFilter": {},
+      "isAutoRefreshDisabled": false,
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWw6c3BhY2U9InByZXNlcnZlIiB2aWV3Qm94PSIwIDAgMzcwIDM0NCIgaGVpZ2h0PSIzNDRweCIgd2lkdGg9IjM3MHB4IiB5PSIwcHgiIHg9IjBweCIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIj4KPGcgaWQ9IkJhY2tncm91bmQiPgo8L2c+CjxnIGlkPSJWZXJ0aWNhbCI+CjwvZz4KPGcgaWQ9Ikhvcml6b250YWwiPgo8L2c+CjxnIGlkPSJEeW5hdHJhY2VfQ29sb3IiPgo8L2c+CjxnIGlkPSJWYXJpYW50cyI+Cgk8Zz4KCQk8Zz4KCQkJPGc+CgkJCQk8cGF0aCBkPSJNMjQxLjksMjgyLjJoLTEwLjZjLTMsMC01LjEsMC42LTYuMywxLjhjLTEuMywxLjItMS45LDMuMy0xLjksNi4ybDAsMzYuNmgtNi40bDAtMzcuMQoJCQkJCWMwLTIuOCwwLjUtNS45LDItOC4yYzIuNy00LjMsNy45LTUuMSwxMS43LTUuMWgxMS41VjI4Mi4yeiIgZmlsbD0iI0ZGRkZGRiI+PC9wYXRoPgoJCQk8L2c+CgkJCTxnPgoJCQkJPHBhdGggZD0iTTIwMS4xLDMyMS4yYy0zLDAtNS4xLTAuNi02LjMtMS44Yy0xLjMtMS4yLTEuOS0zLjItMS45LTYuMXYtMzFoMTMuM3YtNS43aC0xMy4zdi0xNS4xaC02LjR2NTIuMgoJCQkJCWMwLDIuOCwwLjUsNS45LDIsOC4yYzIuNyw0LjMsNy45LDUuMSwxMS43LDUuMWgxMS41di01LjdIMjAxLjF6IiBmaWxsPSIjRkZGRkZGIj48L3BhdGg+CgkJCTwvZz4KCQkJPHBhdGggZD0iTTM1LjEsMjYxLjR2MTUuMWwtMTMuMywwYy04LjEsMC0xMywyLjQtMTYsNS4zYy00LjcsNC41LTQuNywxMS00LjcsMTEuN2MwLDAuOCwwLDE1LjQsMCwxNi4yCgkJCQljMCwwLjcsMCw3LjIsNC43LDExLjdjMywyLjksNy45LDUuMywxNiw1LjNoNS45YzMuOCwwLDktMC44LDExLjctNS4xYzEuNS0yLjMsMi01LjQsMi04LjJ2LTUyLjJIMzUuMXogTTMzLjIsMzE5LjMKCQkJCWMtMS4zLDEuMi0zLjMsMS44LTYuMywxLjhoLTUuN2MtNS4yLDAtOC41LTEuNS0xMC41LTMuNWMtMi40LTIuMy0zLjItNS4zLTMuMi03Ljd2LTE2LjZjMC0yLjQsMC44LTUuNCwzLjItNy43CgkJCQljMi0yLDUuMy0zLjUsMTAuNS0zLjVsMTMuOSwwbDAsMzFDMzUuMSwzMTYuMSwzNC40LDMxOC4xLDMzLjIsMzE5LjN6IiBmaWxsPSIjRkZGRkZGIj48L3BhdGg+CgkJCTxwYXRoIGQ9Ik0yOTkuMywyODUuN2MyLTIsNS4zLTMuNSwxMC41LTMuNWgxNS4zdi01LjdoLTE0LjZjLTguMSwwLTEzLDIuNC0xNiw1LjNjLTQuNyw0LjUtNC43LDExLTQuNywxMS43CgkJCQljMCwwLjQsMCwxNS44LDAsMTYuMmMwLDAuNywwLDcuMiw0LjcsMTEuN2MzLDIuOSw3LjksNS4zLDE2LDUuM2gxNC42di01LjdoLTE1LjNjLTUuMiwwLTguNS0xLjUtMTAuNS0zLjUKCQkJCWMtMi40LTIuMy0zLjItNS4zLTMuMi03Ljd2LTE2LjZDMjk2LjIsMjkxLDI5NywyODgsMjk5LjMsMjg1Ljd6IiBmaWxsPSIjRkZGRkZGIj48L3BhdGg+CgkJCTxwYXRoIGQ9Ik0xODAsMjkzLjZjMC0wLjcsMC03LjItNC43LTExLjdjLTMtMi45LTcuOS01LjMtMTYtNS4zaC0xNC4xdjUuN0gxNjBjNS4yLDAsOC41LDEuNSwxMC41LDMuNQoJCQkJYzIuNCwyLjMsMy4yLDUuMywzLjIsNy43djQuOGgtMjAuMmMtMy44LDAtOSwwLjgtMTEuNyw1LjFjLTEuNSwyLjMtMiw1LjQtMiw4LjJ2MmMwLDIuOCwwLjUsNS45LDIsOC4yYzIuNyw0LjMsNy45LDUuMSwxMS43LDUuMQoJCQkJaDEyLjhjMy44LDAsOS0wLjgsMTEuNy01LjFjMS41LTIuMywyLTUuNCwyLTguMkMxODAsMzEzLjYsMTgwLDI5Ni45LDE4MCwyOTMuNnogTTE3MS43LDMxOS4zYy0xLjMsMS4yLTMuMywxLjgtNi4zLDEuOGgtMTEuMQoJCQkJYy0zLDAtNS4xLTAuNi02LjMtMS44Yy0xLjMtMS4yLTEuOS0zLjItMS45LTYuMXYtMS40YzAtMi45LDAuNi00LjksMS45LTYuMWMxLjMtMS4yLDMuMy0xLjgsNi4zLTEuOGgxOS40bDAsOS4zCgkJCQlDMTczLjYsMzE2LjEsMTczLDMxOC4xLDE3MS43LDMxOS4zeiIgZmlsbD0iI0ZGRkZGRiI+PC9wYXRoPgoJCQk8cGF0aCBkPSJNMjg0LjgsMjkzLjZjMC0wLjcsMC03LjItNC43LTExLjdjLTMtMi45LTcuOS01LjMtMTYtNS4zSDI1MHY1LjdoMTQuN2M1LjIsMCw4LjUsMS41LDEwLjUsMy41CgkJCQljMi40LDIuMywzLjIsNS4zLDMuMiw3Ljd2NC44aC0yMC4yYy0zLjgsMC05LDAuOC0xMS43LDUuMWMtMS41LDIuMy0yLDUuNC0yLDguMnYyYzAsMi44LDAuNSw1LjksMiw4LjJjMi43LDQuMyw3LjksNS4xLDExLjcsNS4xCgkJCQlIMjcxYzMuOCwwLDktMC44LDExLjctNS4xYzEuNS0yLjMsMi01LjQsMi04LjJDMjg0LjgsMzEzLjYsMjg0LjgsMjk2LjksMjg0LjgsMjkzLjZ6IE0yNzYuNSwzMTkuM2MtMS4zLDEuMi0zLjMsMS44LTYuMywxLjhIMjU5CgkJCQljLTMsMC01LjEtMC42LTYuMy0xLjhjLTEuMy0xLjItMS45LTMuMi0xLjktNi4xdi0xLjRjMC0yLjksMC42LTQuOSwxLjktNi4xYzEuMy0xLjIsMy4zLTEuOCw2LjMtMS44aDE5LjRsMCw5LjMKCQkJCUMyNzguNCwzMTYuMSwyNzcuOCwzMTguMSwyNzYuNSwzMTkuM3oiIGZpbGw9IiNGRkZGRkYiPjwvcGF0aD4KCQkJPHBvbHlnb24gcG9pbnRzPSI5MS44LDI3Ni41IDg1LjIsMjc2LjUgNjkuMSwzMTguMyA1My4xLDI3Ni41IDQ2LjUsMjc2LjUgNjUuOCwzMjYuOSA2MCwzNDIgNjYuNiwzNDIiIGZpbGw9IiNGRkZGRkYiPjwvcG9seWdvbj4KCQkJPHBhdGggZD0iTTEzNC42LDI5My42YzAtMC43LDAtNy4yLTQuNi0xMS43Yy0yLjktMi45LTcuNi01LjItMTUuMi01LjNoLTAuN2MtNy42LDAuMS0xMi4zLDIuNS0xNS4yLDUuMwoJCQkJYy00LjYsNC41LTQuNiwxMS00LjYsMTEuN2MwLDAuOCwwLDMwLjcsMCwzMy4zaDYuM2wwLTMzLjVjMC0yLjQsMC44LTUuNCwzLjEtNy43YzItMS45LDUuNy0zLjQsMTAuNy0zLjRjNSwwLjEsOC44LDEuNSwxMC43LDMuNAoJCQkJYzIuMywyLjMsMy4xLDUuMywzLjEsNy43bDAsMzMuNWg2LjNDMTM0LjYsMzI0LjMsMTM0LjYsMjk0LjQsMTM0LjYsMjkzLjZ6IiBmaWxsPSIjRkZGRkZGIj48L3BhdGg+CgkJCTxwYXRoIGQ9Ik0zNjQuMywyODEuOWMtMi45LTIuOS03LjYtNS4yLTE1LjItNS4zaC0wLjdjLTcuNiwwLjEtMTIuMywyLjUtMTUuMiw1LjNjLTQuNiw0LjUtNC42LDExLTQuNiwxMS43djE2LjIKCQkJCWMwLDAuNywwLDcuMiw0LjYsMTEuN2MyLjksMi45LDcuNiw1LjIsMTUuMiw1LjNoMTQuOXYtNS43bC0xNC42LDBjLTUtMC4xLTguOC0xLjUtMTAuNy0zLjRjLTIuMy0yLjMtMy4xLTUuMy0zLjEtNy43di02aDM0CgkJCQl2LTEwLjVDMzY4LjksMjkyLjksMzY4LjksMjg2LjQsMzY0LjMsMjgxLjl6IE0zMzQuOSwyOTguM3YtNWMwLTIuNCwwLjgtNS40LDMuMS03LjdjMi0xLjksNS43LTMuNCwxMC43LTMuNAoJCQkJYzUsMC4xLDguOCwxLjUsMTAuNywzLjRjMi4zLDIuMywzLjEsNS4zLDMuMSw3LjdsMCw1SDMzNC45eiIgZmlsbD0iI0ZGRkZGRiI+PC9wYXRoPgoJCTwvZz4KCQk8Zz4KCQkJPHBhdGggZD0iTTE1MSwxOS44Yy0yLjcsMTQuNS02LjIsMzUuOS04LDU3LjZjLTMuMiwzOC40LTEuMiw2NC0xLjIsNjRsLTUzLjksNTEuM2MwLDAtNC4yLTI4LjgtNi4zLTYxLjIKCQkJCWMtMS4zLTIwLTEuNy0zNy43LTEuOC00OC40YzAtMC42LDAuMy0xLjIsMC4zLTEuOGMwLTAuNywwLjktNy45LDcuOS0xNC41Qzk1LjcsNTkuNSwxNTEuOCwxNS41LDE1MSwxOS44eiIgZmlsbD0iIzE0OTZGRiI+PC9wYXRoPgoJCQk8cGF0aCBkPSJNMTUxLDE5LjhjLTIuNywxNC41LTYuMiwzNS45LTgsNTcuNmMwLDAtNTkuNy03LjEtNjMuMiw3LjNjMC0wLjcsMS05LjUsOC0xNi4yCgkJCQlDOTUuNSw2MS4xLDE1MS44LDE1LjUsMTUxLDE5Ljh6IiBmaWxsPSIjMTI4NEVBIj48L3BhdGg+CgkJCTxwYXRoIGQ9Ik03OS44LDgxLjNjMCwxLDAsMi4xLDAsMy4zYzAuNi0yLjYsMS42LTQuNSwzLjgtNy4yYzQuNC01LjYsMTEuNi03LjEsMTQuNS03LjUKCQkJCWMxNC42LTEuOSwzNi4yLTQuMyw1Ny45LTQuOWMzOC41LTEuMiw2My45LDIsNjMuOSwybDUzLjktNTEuM2MwLDAtMjguMy01LjQtNjAuNi05LjJjLTIxLjEtMi41LTM5LjctMy44LTUwLjEtNC40CgkJCQljLTAuNywwLTguMi0xLTE1LjIsNS43Yy03LjcsNy4zLTQ2LjMsNDMuOS02MS44LDU4LjdDNzkuMyw3My4xLDc5LjgsODAuNiw3OS44LDgxLjN6IiBmaWxsPSIjQjREQzAwIj48L3BhdGg+CgkJCTxwYXRoIGQ9Ik0yNzEuOSwxNDYuOGMtMTQuNiwyLTM2LjEsNC40LTU3LjksNS4xYy0zOC41LDEuMy02NC0xLjktNjQtMS45TDk2LDIwMS4zYzAsMCwyOC42LDUuNiw2MC44LDkuMwoJCQkJYzE5LjcsMi4zLDM3LjMsMy41LDQ3LjksNC4xYzAuNywwLDItMC42LDIuNy0wLjZjMC43LDAsOC4yLTEuMywxNS4yLThDMjMwLjQsMTk4LjgsMjc2LjIsMTQ2LjMsMjcxLjksMTQ2Ljh6IiBmaWxsPSIjNkYyREE4Ij48L3BhdGg+CgkJCTxwYXRoIGQ9Ik0yNzEuOSwxNDYuOGMtMTQuNiwyLTM2LjEsNC40LTU3LjksNS4xYzAsMCw0LjIsNjAtMTAuNCw2Mi43YzAuNywwLDEwLjYtMC41LDE3LjYtNy4xCgkJCQlDMjI4LjksMjAwLjIsMjc2LjIsMTQ2LjMsMjcxLjksMTQ2Ljh6IiBmaWxsPSIjNTkxRjkxIj48L3BhdGg+CgkJCTxwYXRoIGQ9Ik0yMDYuOSwyMTQuOWMtMS0wLjEtMi4xLTAuMS0zLjMtMC4yYzIuNy0wLjUsNC41LTEuNCw3LjQtMy40YzUuOC00LjIsNy43LTExLjIsOC4yLTE0LjEKCQkJCWMyLjYtMTQuNSw2LTM1LjksNy44LTU3LjZjMy4xLTM4LjQsMS4xLTYzLjksMS4xLTYzLjlsNTMuOS01MS4zYzAsMCw0LDI4LjUsNi4yLDYwLjljMS40LDIxLjIsMS44LDM5LjgsMS45LDUwLjIKCQkJCWMwLDAuNywwLjYsOC4yLTYuNCwxNC45Yy03LjcsNy4zLTQ2LjIsNDQuMS02MS43LDU4LjlDMjE1LjEsMjE1LjgsMjA3LjYsMjE0LjksMjA2LjksMjE0Ljl6IiBmaWxsPSIjNzNCRTI4Ij48L3BhdGg+CgkJPC9nPgoJPC9nPgo8L2c+Cjwvc3ZnPgo="
+    },
+    {
+      "name": "Markdown",
+      "nameSize": "",
+      "tileType": "MARKDOWN",
+      "configured": true,
+      "bounds": {
+        "top": 38,
+        "left": 608,
+        "width": 570,
+        "height": 76
+      },
+      "tileFilter": {},
+      "isAutoRefreshDisabled": false,
+      "markdown": "***\n# 💻📐 Capacitación Dynatrace \n***"
+    },
+    {
+      "name": "Markdown",
+      "nameSize": "",
+      "tileType": "MARKDOWN",
+      "configured": true,
+      "bounds": {
+        "top": 380,
+        "left": 1368,
+        "width": 418,
+        "height": 722
+      },
+      "tileFilter": {},
+      "isAutoRefreshDisabled": false,
+      "markdown": "***\n## 🔍 Monitoreo Sintético\n***\n## 🔗 Introducción: \n1.\n### [Introducción a Monitoreo Sintético](https://university.dynatrace.com/ondemand/course/22595/video/26410?section=26994)\n2.\n### [Unidades DEM en Monitoreo Sintético](https://university.dynatrace.com/ondemand/course/22595/video/22655?section=26994)\n\n## 🔗 Creación y Configuración de Sintéticos: \n1.\n### [Crear Sintético tipo Browser de una URL](https://university.dynatrace.com/ondemand/course/22595/video/26423?section=22597)\n2.\n### [Crear Sintético tipo Browser Clickpath](https://university.dynatrace.com/ondemand/course/22595/video/22505?section=22597)\n3.\n### [Configurar Sintético tipo Browser](https://university.dynatrace.com/ondemand/course/22595/video/22592?section=22597)\n4.\n### [Sintético tipo Browser - Disponibilidad y Performance](https://university.dynatrace.com/ondemand/course/22595/video/26496?section=22597)\n5.\n### [Sintético tipo Browser - Configuración Avanzada](https://university.dynatrace.com/ondemand/course/22595/video/26598?section=22597)\n6.\n### [Sintético tipo Browser - Modo Script](https://university.dynatrace.com/ondemand/course/22595/video/26650?section=22597)\n7.\n### [Crear Sintético tipo HTTP](https://university.dynatrace.com/ondemand/course/22595/video/23440?section=22597)\n8.\n### [Configurar Sintético tipo HTTP](https://university.dynatrace.com/ondemand/course/22595/video/23418?section=22597)\n\n## 🔗 Analizando Sintéticos: \n1.\n### [Analizando Sintéticos tipo Browser](https://university.dynatrace.com/ondemand/course/22595/video/24893?section=26995)\n2.\n### [Analizando Sintéticos tipo Browser - Disponibilidad y Performance](https://university.dynatrace.com/ondemand/course/22595/video/27984?section=26995)\n3.\n### [Analizando Sintéticos tipo Browser - Fallas y Errores](https://university.dynatrace.com/ondemand/course/22595/video/28470?section=26995)\n4.\n### [Analizando Sintéticos tipo HTTP](https://university.dynatrace.com/ondemand/course/22595/video/41437?section=26995)\n5.\n### [Analizando Sintéticos tipo HTTP - Herramientas de Análisis](https://university.dynatrace.com/ondemand/course/22595/video/41420?section=26995)"
+    },
+    {
+      "name": "Markdown",
+      "nameSize": "",
+      "tileType": "MARKDOWN",
+      "configured": true,
+      "bounds": {
+        "top": 228,
+        "left": 0,
+        "width": 418,
+        "height": 418
+      },
+      "tileFilter": {},
+      "isAutoRefreshDisabled": false,
+      "markdown": "## 🔍 Introducción\n***\n## 🔗 Conceptos Básicos: \n1.\n### [Bienvenidos a Dynatrace](https://university.dynatrace.com/ondemand/course/40091/video/40166?section=40092)\n2.\n### [¿Qué es Dynatrace?](https://youtu.be/tQ42CWnvkrA)\n3.\n### [Davis, La IA de Dynatrace ](https://youtu.be/8_2eShn4VNY)\n\n## 🔗 Dashboards: \n1.\n### [Crear Dashboards](https://university.dynatrace.com/ondemand/course/21819/video/24177?section=21088)\n2.\n### [Explorar Dashboards](https://university.dynatrace.com/ondemand/course/21819/video/21961?section=21088)\n\n## 🔗 Problemas: \n1.\n### [Analizar Eventos](https://university.dynatrace.com/ondemand/course/21819/video/23816?section=26005)\n2.\n### [Caso de Uso: Analizar un Problema](https://university.dynatrace.com/ondemand/course/21819/video/21212?section=26005)"
+    },
+    {
+      "name": "Markdown",
+      "nameSize": "",
+      "tileType": "MARKDOWN",
+      "configured": true,
+      "bounds": {
+        "top": 646,
+        "left": 0,
+        "width": 418,
+        "height": 304
+      },
+      "tileFilter": {},
+      "isAutoRefreshDisabled": false,
+      "markdown": "***\n## 🔍 Observabilidad de Infraestructura\n***\n## 🔗 Monitoreo de Hosts: \n1.\n### [Introducción al Monitoreo de Hosts](https://university.dynatrace.com/ondemand/course/40091/video/40166?section=40092)\n2.\n### [Monitoreo de Hosts](https://university.dynatrace.com/ondemand/course/26892/video/41637?section=41459)\n3.\n### [Detalle de Hosts](https://university.dynatrace.com/ondemand/course/26892/video/22295?section=41459)\n4.\n### [Full Stack vs Infra-Only Monitoring](https://university.dynatrace.com/ondemand/course/26893/video/27053?section=27054)\n\n## 🔗 Monitoreo Cloud: \n1.\n### [Monitoreo Cloud y Virtualización](https://university.dynatrace.com/ondemand/course/40091/video/40971?section=40932)\n"
+    },
+    {
+      "name": "Markdown",
+      "nameSize": "",
+      "tileType": "MARKDOWN",
+      "configured": true,
+      "bounds": {
+        "top": 228,
+        "left": 912,
+        "width": 418,
+        "height": 304
+      },
+      "tileFilter": {},
+      "isAutoRefreshDisabled": false,
+      "markdown": "## 🔍 Conceptos Avanzados\n***\n## 🔗 Link a los videos: \n1.\n### [Detección de Anomalías y Prevención de Falsos Positivos](https://youtu.be/AEJ8KOwV4Dw)\n\n1.\n### [Ajustando la Sensibilidad en la detección de problemas](https://university.dynatrace.com/ondemand/course/40960/video/24694?section=40963)\n\n1.\n### [Análisis Multi-Dimensional](https://university.dynatrace.com/ondemand/course/21819/video/25859?section=26008)\n\n1.\n### [Graficar con Data Explorer](https://university.dynatrace.com/ondemand/course/21819/video/26740?section=26008)\n\n1.\n### [Definir Key User Actions](https://university.dynatrace.com/ondemand/course/22595/video/22681?section=23817)\n\n1.\n### [¿Qué es un ActiveGate?](https://university.dynatrace.com/ondemand/course/40973/video/40901?section=40108)\n"
+    },
+    {
+      "name": "Markdown",
+      "nameSize": "",
+      "tileType": "MARKDOWN",
+      "configured": true,
+      "bounds": {
+        "top": 532,
+        "left": 912,
+        "width": 418,
+        "height": 304
+      },
+      "tileFilter": {},
+      "isAutoRefreshDisabled": false,
+      "markdown": "***\n## 🔍 Dynatrace API\n***\n## 🔗 Uso de la API: \n1.\n### [¿Qué es la API de Dynatrace?](https://university.dynatrace.com/ondemand/course/41819/video/23856?section=41820)\n2.\n### [Primeros Pasos con la API de Dynatrace](https://university.dynatrace.com/ondemand/course/41819/video/22711?section=41820)\n3.\n### [Usando el API Explorer](https://university.dynatrace.com/ondemand/course/41819/video/24125?section=41820)\n\n## 🔗 Principales API: \n1.\n### [Environment API](https://university.dynatrace.com/ondemand/course/41819/video/24065?section=41821)\n2.\n### [Configuration API](https://university.dynatrace.com/ondemand/course/41819/video/24068?section=41822)"
+    },
+    {
+      "name": "Markdown",
+      "nameSize": "",
+      "tileType": "MARKDOWN",
+      "configured": true,
+      "bounds": {
+        "top": 684,
+        "left": 456,
+        "width": 418,
+        "height": 228
+      },
+      "tileFilter": {},
+      "isAutoRefreshDisabled": false,
+      "markdown": "***\n## 🔍 Monitoreo Real de Usuarios\n***\n## 🔗 Digital Experience: \n1.\n### [Analizando el Comportamiento de Usuarios](https://university.dynatrace.com/ondemand/course/22595/video/41936?section=41453)\n1.\n### [Segmentación de Sesiones de Usuario](https://university.dynatrace.com/ondemand/course/22595/video/21201?section=41453)\n1.\n### [USQL - User Sessions Query Language](https://university.dynatrace.com/ondemand/course/22595/video/26321?section=41453)\n1.\n### [¿Qué es Session Replay?](https://university.dynatrace.com/ondemand/course/22595/video/23384?section=41453)\n"
+    },
+    {
+      "name": "Markdown",
+      "nameSize": "",
+      "tileType": "MARKDOWN",
+      "configured": true,
+      "bounds": {
+        "top": 950,
+        "left": 0,
+        "width": 418,
+        "height": 456
+      },
+      "tileFilter": {},
+      "isAutoRefreshDisabled": false,
+      "markdown": "***\n## 🔍 Observabilidad de Aplicaciones\n***\n## 🔗 Monitoreo de Servicios: \n1.\n### [Introducción al Monitoreo de Servicios](https://university.dynatrace.com/ondemand/course/26893/video/41715?section=41714)\n2.\n### [Monitoreo de Servicios](https://university.dynatrace.com/ondemand/course/26893/video/21156?section=26008)\n3.\n### [Detalle de Service Flow](https://university.dynatrace.com/ondemand/course/26893/video/23333?section=26008)\n4.\n### [PurePaths](https://university.dynatrace.com/ondemand/course/26893/video/24029?section=26008)\n5.\n### [Backtrace](https://university.dynatrace.com/ondemand/course/26893/video/24030?section=26008)\n\n## 🔗 Monitoreo de Aplicaciones: \n1.\n### [Monitoreo de Aplicaciones](https://university.dynatrace.com/ondemand/course/26893/video/21149?section=26860)\n1.\n### [Introducción a Pages y Page Groups](https://university.dynatrace.com/ondemand/course/26893/video/26982?section=26860)\n\n## 🔗 Monitoreo de Base de Datos: \n1.\n### [Monitoreo de Base de Datos](https://university.dynatrace.com/ondemand/course/26893/video/22287?section=26865)\n1.\n### [Principales Sentencias de una Base de Datos](https://university.dynatrace.com/ondemand/course/26893/video/23069?section=26865)"
+    }
+  ]
+}
