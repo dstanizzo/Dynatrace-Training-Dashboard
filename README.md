@@ -10,3 +10,5 @@ You can find Spanish Version of the Dashboard.
    - Open the Dynatrace Menu under the Observe and explore Group choose Dashboards.
    - Click on Import Dashboard.
    - Choose the JSON file and it's done.
+
+![ImportDashboard](https://github.com/dstanizzo/Dynatrace-Training-Dashboard/blob/main/images/Import.Dashboard.png)
